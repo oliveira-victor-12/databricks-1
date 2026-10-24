@@ -1,0 +1,15 @@
+{
+	"name": "adf-cursoudemy-victor",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7f62a748-83cf-411b-b34f-4d2cee524b1f",
+		"tenantId": "7b524d4f-7f45-483b-a9cb-c936b2331db7"
+	}
+}
